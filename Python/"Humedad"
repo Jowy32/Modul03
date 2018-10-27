@@ -1,0 +1,5 @@
+humedad=input("humedad:")
+if humedad >= 80:
+    print "Tengo que cojer el paraguas"
+else:
+    print "No necesito el paraguas"
