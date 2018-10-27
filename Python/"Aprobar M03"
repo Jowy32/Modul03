@@ -1,0 +1,8 @@
+jamon = input("Tienes el jamon?:")
+abduccion = input("Te han abducido?:")
+dia = input("Que dia es?:")
+estudiar = input("Quanto has estudiado?:")
+if (jamon=="si")or((abduccion=="si")and(dia=="jueves"))or(estudiar=="mucho"):
+    print("Apruebas M03")
+else:
+    print("No apruebas M03")
