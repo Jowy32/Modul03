@@ -1,0 +1,24 @@
+Media ponderada: Media que tiene en cuenta que las distintas variables tienen pesos distintos.
+Formato condicional: Assigna colores a las celdas dependiendo de los valores que haya en estas.
+Count/Counta:
+  Count: Cuenta el numero de celdas con variables numericas dentro del rango elegido.
+  Counta: Cuenta el numero de celdas con variables tanto numericas como alfanumericas dentro del rango elegido.
+Datedif: Calcula la diferencia entre dos fechas.
+Today/Now:
+  Today: Funcion que marca la fecha actual.
+  Now: Funcion que marca la fecha y horas actuales.
+If: Devuelve un valor si la expresion logica es verdadera y otro si es falsa.
+Graficas: Sirven para expresar graficamente una serie de datos.
+Autofiltro: Sirve principalmente para ordenar los valores elegidos en el orden deseado.
+Alinear texto:
+  Alineado horizontal: Alinea el texto a la izquierda, en el centro o a la derecha.
+  Alineado vertical: Alinea el texto arriba, en medio o abajo.
+Formato de texto:
+  Desbordar: El texto ocupa la siguiente celda si no esta ocupada.
+  Ajustar: Si el texto ocupa mas que la celda, la celda se hace mas alta para que quepa el texto.
+  Recortar: Si el texto ocupa mas que la celda, el texto se corta al final.
+F11: Sirve para poner la pantalla completa.
+Ctrl+enter: Sirve para hacer un enter dentro de una celda.
+Ctrl+Z/Ctrl+Y:
+  Ctrl+Z: Sirve para retroceder.
+  Ctrl+Y: Sirve para avanzar.
