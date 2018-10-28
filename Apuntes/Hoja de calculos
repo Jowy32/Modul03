@@ -22,4 +22,18 @@ Ctrl+enter: Sirve para hacer un enter dentro de una celda.
 Ctrl+Z/Ctrl+Y:
   Ctrl+Z: Sirve para retroceder.
   Ctrl+Y: Sirve para avanzar.
-L
+Listas de distribucion:
+  Lista de correo electronico: Este tipo de lista permite publicar contenido desde la web del grupo o desde el correo electronico.
+  Foro web: Este tipo de lista permite a la gente interactuar con el grupo o mantener debates de distintos temas.
+  Foro de preguntas y respuestas: Este tipo de lista permite a los usuarios publicar preguntas y responderlas.
+  Bandeja de entrada colaborativa: En este tipo de lista, los temas se pueden asignar a los distintos usuarios y
+                                   estos los pueden resolver como si fuesen deberes.
+Nota/Comentario: 
+  Nota: Texto que se escribe sobre una celda, es anonimo.
+  Comentario: Texto que se escribe sobre una celda, es publico y los demas usuarios pueden responder.
+Descuento/Recargo:
+  Descuento: Porcentaje del precio inicial que se resta al precio inicial.
+  Recargo: Porcentaje del precio inicial que se suma al precio inicial.
+IVA:
+  Calcular el precio con IVA: Precio inicial*((IVA/100)+1)=Precio con IVA
+  Calcular el precio sin IVA: Precio inicial/((IVA/100)+1)=Precio sin IVA
