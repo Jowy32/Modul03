@@ -2,5 +2,5 @@
 Edat=input("Quina edat tens?:")
 if (Edat < 5) or (Edat >= 65):
   print ("No pagues")
-else
-  print ("Pagues 2,15€)
+else:
+  print ("Pagues 2,15€")
