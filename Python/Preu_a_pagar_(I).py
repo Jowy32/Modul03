@@ -1,9 +1,9 @@
 #Colors de cabells:"morens","pelrojos","rossos"
 #Sexe:"H","D"
-#Python 2.7
-Jubilat=raw_input("Estas jubilat/jubilada?:")
-Sexe=raw_input("Ets home o dona?:")
-Cabells=raw_input("Quin color de cabells tens?:")
+#Python 3.6
+Jubilat=input("Estas jubilat/jubilada?:")
+Sexe=input("Ets home o dona?:")
+Cabells=input("Quin color de cabells tens?:")
 if ((Sexe == "D")and(Jubilat == "no")and(Cabells == "rossos"))or(Jubilat == "si"):
     print("No pagues")
 if (Sexe=="H")and(Jubilat=="no"):
