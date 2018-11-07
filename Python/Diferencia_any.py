@@ -19,3 +19,10 @@ else:
             if (Any_actual > 0)and(Any_qualsevol > 0)and(Any_actual > Any_qualsevol):
                 res = (Any_actual) - (Any_qualsevol)
                 print ("Han passat",res,"anys desde l'any",Any_qualsevol,)
+            else:
+                if (Any_actual >0)and(Any_qualsevol <0):
+                    res = (Any_actual)-(Any_qualsevol)-1
+                    print ("Han passat",res,"anys desde l'any",Any_qualsevol,)
+                if (Any_actual <0)and(Any_qualsevol >0):
+                    res = (Any_qualsevol)-(Any_actual)-1
+                    print ("Per arribar al any",Any_qualsevol,"falten",res," anys")
