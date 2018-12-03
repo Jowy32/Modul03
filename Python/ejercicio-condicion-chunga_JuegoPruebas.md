@@ -1,0 +1,10 @@
+-30  ----> Entra dentro de los parámetros
+-11  ----> Entra dentro de los parámetros
+-10  ----> Entra dentro de los parámetros
+-6   ----> Entra dentro de los parámetros
+-5   ----> Entra dentro de los parámetros
+0    ----> Entra dentro de los parámetros
+6    ----> Entra dentro de los parámetros
+40   ----> Entra dentro de los parámetros
+41   ----> No entra dentro de los parámetros
+234  ----> Entra dentro de los parámetros
