@@ -9,7 +9,7 @@ if (lado_2 == "cara"):
         print ("Ha salido cruz, no has ganado")
 else:
     if (lado_2 == "cruz"):
-        lado_2 = 2
+        lado_2 = 1
         if (lado_2 == lado_1):
             print ("Ha salido cruz, has ganado")
         else:
