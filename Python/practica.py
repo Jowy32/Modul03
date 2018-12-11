@@ -1,37 +1,38 @@
-if (carta_2 == "A"):
-    carta_2 = 14
+if (carta_1 == "A"):
+    carta_1 = 14
 else:
-    if (carta_2 == "2")
-        carta_2 = 2
+    if (carta_1 == "2")
+        carta_1 = 2
     else:
-        if (carta_2 == "3"):
-            carta_2 = 3
+        if (carta_1 == "3"):
+            carta_1 = 3
         else:
-            if (carta_2 == "4"):
-                carta_2 = 4
+            if (carta_1 == "4"):
+                carta_1 = 4
             else:
-                if (carta_2 == "5"):
-                    carta_2 = 5
+                if (carta_1 == "5"):
+                    carta_1 = 5
                 else:
-                    if (carta_2 == "6")
-                        carta_2 = 6
+                    if (carta_1 == "6")
+                        carta_1 = 6
                     else:
-                        if (carta_2 == "7"):
-                            carta_2 = 7
+                        if (carta_1 == "7"):
+                            carta_1 = 7
                         else:
-                            if (carta_2 == "8"):
-                                carta_2 = 8
+                            if (carta_1 == "8"):
+                                carta_1 = 8
                             else:
-                                if (carta_2 == "9")
-                                    carta_2 = 9
+                                if (carta_1 == "9")
+                                    carta_1 = 9
                                 else:
-                                    if (carta_2 == "10"):
-                                        carta_2 = 10
+                                    if (carta_1 == "10"):
+                                        carta_1 = 10
                                     else:
-                                        if (carta_2 == "J"):
-                                            carta_2 = 11
-                                            if (carta_2 == "Q"):
-                                                carta_2 = 12
+                                        if (carta_1 == "J"):
+                                            carta_1 = 11
+                                        else:   
+                                            if (carta_1 == "Q"):
+                                                carta_1 = 12
                                             else:
-                                                if (carta_2 == "K")
-                                                    carta_2 = 13
+                                                if (carta_1 == "K")
+                                                    carta_1 = 13
